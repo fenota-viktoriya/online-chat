@@ -1,0 +1,21 @@
+.section {
+  display: flex;
+
+  gap: 10px;
+  width: 100%;
+}
+.listWrapper {
+  display: flex;
+  width: 50%;
+}
+.chatWrapper {
+  display: flex;
+  width: 50%;
+}
+.list {
+  display: flex;
+  flex-direction: column;
+}
+.item {
+  display: flex;
+}
